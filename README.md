@@ -8,7 +8,7 @@ This project was created as a learning project to practice data visualization, d
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR Analytics Dashboard.png)
 
 ---
 
